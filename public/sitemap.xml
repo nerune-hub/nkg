@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://inspiring-austin-ca8ef0.netlify.app/posts/example/</loc>
-    <lastmod>2021-07-06T03:16:05+09:00</lastmod>
-  </url><url>
     <loc>https://inspiring-austin-ca8ef0.netlify.app/</loc>
-    <lastmod>2021-07-06T03:16:05+09:00</lastmod>
+    <lastmod>2021-07-06T04:01:11+09:00</lastmod>
+  </url><url>
+    <loc>https://inspiring-austin-ca8ef0.netlify.app/posts/howtopost-hugo/</loc>
+    <lastmod>2021-07-06T04:01:11+09:00</lastmod>
   </url><url>
     <loc>https://inspiring-austin-ca8ef0.netlify.app/posts/</loc>
+    <lastmod>2021-07-06T04:01:11+09:00</lastmod>
+  </url><url>
+    <loc>https://inspiring-austin-ca8ef0.netlify.app/posts/example/</loc>
     <lastmod>2021-07-06T03:16:05+09:00</lastmod>
   </url><url>
     <loc>https://inspiring-austin-ca8ef0.netlify.app/about/</loc>
