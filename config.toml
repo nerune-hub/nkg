@@ -1,5 +1,5 @@
 baseURL = "https://60e34e76c9827500074434dd--inspiring-austin-ca8ef0.netlify.app"
-title = "Your title"
+title = "neru's knowledge garden"
 themesDir = "themes/"
 theme = "m10c"
 paginate = 8
@@ -22,8 +22,8 @@ paginate = 8
     weight = 3
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "neru"
+  description = "Blender, Jupyter, Obsidian, Hugo, etc."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
