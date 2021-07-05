@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Your title</title>
-    <link>https://example.com/posts/</link>
+    <link>https://60e34e76c9827500074434dd--inspiring-austin-ca8ef0.netlify.app/posts/</link>
     <description>Recent content in Posts on Your title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Jul 2021 03:16:05 +0900</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 03:16:05 +0900</lastBuildDate><atom:link href="https://60e34e76c9827500074434dd--inspiring-austin-ca8ef0.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://example.com/posts/example/</link>
+      <link>https://60e34e76c9827500074434dd--inspiring-austin-ca8ef0.netlify.app/posts/example/</link>
       <pubDate>Tue, 06 Jul 2021 03:16:05 +0900</pubDate>
       
-      <guid>https://example.com/posts/example/</guid>
+      <guid>https://60e34e76c9827500074434dd--inspiring-austin-ca8ef0.netlify.app/posts/example/</guid>
       <description>example post.</description>
     </item>
     
