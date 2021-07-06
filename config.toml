@@ -24,16 +24,16 @@ paginate = 8
 [params]
   author = "neru"
   description = "Blender, Jupyter, Obsidian, Hugo, nature game, camp etc."
-  avatar = "avatar.png"
+  avatar = "avatar.svg"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = ""
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/gohugoio"
+    url = ""
 
   # Default theme
   #[params.style]
