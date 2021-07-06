@@ -21,3 +21,5 @@ git commit -m "commit changes"
 git push -u origin main
 ```
 
+## 備考
+- ローカルでプレビューしたいときは`hugo server -D`を使う

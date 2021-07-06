@@ -23,8 +23,10 @@ paginate = 8
 
 [params]
   author = "neru"
-  description = "Blender, Jupyter, Obsidian, Hugo, etc."
+  description = "Blender, Jupyter, Obsidian, Hugo, nature game, camp etc."
+  avatar = "avatar.png"
   menu_item_separator = " - "
+  favicon = "/avatar.png"
   [[params.social]]
     icon = "github"
     name = "Github"

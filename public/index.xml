@@ -12,7 +12,7 @@
       <pubDate>Tue, 06 Jul 2021 04:01:11 +0900</pubDate>
       
       <guid>https://inspiring-austin-ca8ef0.netlify.app/posts/howtopost-hugo/</guid>
-      <description>手順  pathを指定してディレクトリを変更 Hugoで新しいMarkdownファイルを作成 Obsidianでファイルを編集 Hugoでサイトを構築 Gitでリモートリポジトリにpush  commands cd hugo/example/ hugo new posts/example.md hugo -D git add . git commit -m &amp;#34;commit changes&amp;#34; git push -u origin main </description>
+      <description>手順  pathを指定してディレクトリを変更 Hugoで新しいMarkdownファイルを作成 Obsidianでファイルを編集 Hugoでサイトを構築 Gitでリモートリポジトリにpush  commands cd hugo/example/ hugo new posts/example.md hugo -D git add . git commit -m &amp;#34;commit changes&amp;#34; git push -u origin main 備考  ローカルでプレビューしたいときはhugo server -Dを使う  </description>
     </item>
     
     <item>
